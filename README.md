@@ -12,4 +12,4 @@ This project displays MLB batters statistics using a free API: https://appac.git
 - React.js
 - Node.js
 
-<img src="./fav_player.gif" alt="My Project GIF" width="500" height="600">
+<img src="./fav_player.gif" alt="My Project GIF" width="400" height="300">
